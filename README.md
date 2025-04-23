@@ -34,7 +34,7 @@ The **AI Investment Agent** is a Streamlit-based web application that allows use
 - Input two stock symbols (e.g., AAPL, MSFT).
 - Click "Analyze Stocks" to generate a detailed investment report.
 
-#Example Usage 
+# Example Usage 
 1. Compare stocks like AAPL and MSFT to get insights into:
 2. Price performance over the past year.
 3. Analyst sentiment and recommendations.
